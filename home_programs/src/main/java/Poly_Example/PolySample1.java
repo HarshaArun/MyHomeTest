@@ -17,4 +17,5 @@ public class PolySample1 {
     	int Sum1=s1+s2;
     	System.out.println("Addition : " + Sum1);
     }
+  
 }
